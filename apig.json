@@ -2001,7 +2001,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "https://github.com/kimwang1978/collect-tv-txt/raw/main/merged_output.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
