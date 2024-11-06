@@ -114,7 +114,14 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		        {
+	{
+            "key": "腐剧TV",
+            "name": "腐剧TV",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/腐剧TV.js"
+        },
+	{
             "key": "菠萝小站",
             "name": "菠萝小站",
             "type": 3,
