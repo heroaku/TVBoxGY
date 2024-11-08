@@ -2,7 +2,7 @@ var rule = {
     title:'看腐剧',
     host:'https://www.kanfujutv.com',
     // https://www.kanfujutv.com/vodshow/fyclass/page/fypage.html
-    // https://www.kanfujutv.com/vodsearch.html?wd=**&submit=
+    // https://www.kanfujutv.com/vodsearch.html?wd=%E5%85%B3%E4%BA%8E&submit=
     url:'/vodshow/fyclass/page/fypage.html',
     searchUrl:'/vodsearch.html?wd=**&submit=',
     searchable:2,//是否启用全局搜索,
