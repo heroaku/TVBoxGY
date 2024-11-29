@@ -1,6 +1,4 @@
-# 软件及资源
-
-https://www.123pan.com/s/sPNbVv-67SXv
+# Github暂停维护，入群获取新链接，QQ群960349207
 
 # 在线源订阅链接：
 
