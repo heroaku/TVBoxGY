@@ -152,6 +152,13 @@
             "ext": "./JS/影视大全.js"
         },
         {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/欧乐影院.js"
+        },
+        {
             "key": "酷影视",
             "name": "酷影视｜APP",
             "type": 3,
